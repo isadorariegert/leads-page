@@ -17,7 +17,7 @@
 ### As versões:
 | Versão    	| Link                                                               	|
 |-----------	|--------------------------------------------------------------------	|
-| 1º versão 	| https://github.com/isadorariegert/show-me-the-leads/commits/master 	| 
+| 1º versão 	| https://github.com/isadorariegert/show-me-the-leads 	                | 
 | 2º versão 	| https://github.com/isadorariegert/landingpage-bootstrap            	|  
 | 3º versão 	| https://github.com/catharinamoral/show-me-the-leads                	|  
 
