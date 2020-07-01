@@ -25,4 +25,5 @@ Para terminar nosso README como uma mensagem motivacional, como diria o grande G
 >Troque o D pelo R e terá Resistir
 
 Beijos e até a próxima
+
 ![](https://media.giphy.com/media/rixLNZzgCyB7G/giphy.gif)
