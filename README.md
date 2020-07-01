@@ -6,11 +6,11 @@
 - Nós fizemos sobre a empresa WeChat
 - Até o momento tivemos 4 versões da landing page e contando ...
 - Durante o projeto acabamos criando vários repositórios então o link de todos vão estar aqui e algum lugar para vocês conseguirem ver os commits, esse é o repositório que usamos para a última versão
-- Nós temos um dive de devas maravilhoso formado por três meninas #GirlPower
+- Nós temos um time de devas maravilhoso formado por três meninas #GirlPower
 ![](https://media.giphy.com/media/bSMLwVLkZV2CkRXfhr/giphy.gif)
 
 ### Tecnologias utilizadas
-- HTMl
+- HTML
 - CSS
 - Bootstrap
 
@@ -23,5 +23,6 @@
 
 Para terminar nosso README como uma mensagem motivacional, como diria o grande Giovanni Del Negro
 >Troque o D pelo R e terá Resistir
+
 Beijos e até a próxima
 ![](https://media.giphy.com/media/rixLNZzgCyB7G/giphy.gif)
