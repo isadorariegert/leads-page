@@ -41,3 +41,22 @@ header img {
     font-size: 1.2em;
     margin-bottom: 1.5em;
 }
+
+/*=============== FOOTER ===============*/
+
+.footer {
+    margin: 15px 0;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer img{
+  width: 30px;
+  height: 65px;
+  margin-top: .5em;
+  margin-right: .5em;
+}
+
+.logo img {
+    width: 100px;
+}
