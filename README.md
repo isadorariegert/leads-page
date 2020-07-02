@@ -19,7 +19,16 @@
 |-----------	|--------------------------------------------------------------------	|
 | 1º versão 	| https://github.com/isadorariegert/show-me-the-leads 	                | 
 | 2º versão 	| https://github.com/isadorariegert/landingpage-bootstrap            	|  
-| 3º versão 	| https://github.com/catharinamoral/show-me-the-leads                	|  
+| 3º versão 	| https://github.com/catharinamoral/show-me-the-leads                	| 
+
+### Além do código
+Além das versões que criamos do código nós criamos duas versões de landing page para atacar públicos diferentes, então temos:
+- A landing page do Ebook: https://www.betagrowth.com.br/
+- A landing page do Quiz: https://quiz-land.betagrowth.com.br/
+
+### Como nos organizamos 
+Nós nos organizamos por branch, quando tinhamos somente uma landing page cada integrante tinha sua branch dentro do repositorio mas quando passamos para duas landing pages achamos melhor organizar as paginas pelas branchs.
+A branch master é a landing do Ebook, a quiz-land é a landing do quiz, e a quiz é a pagina do quiz.
 
 ### Highlights
 - Tentamos ao máximo utilizar uma boa semântica no código, tanto para SEO quanto para acessibilidade.
