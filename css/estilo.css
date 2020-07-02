@@ -42,31 +42,14 @@ p {
     height: 65px;
 }
 
-/*=============== TEXT BTN IMG-EBOOK ===============*/
+/*=============== CONTENT COLOR ===============*/
 
 .content-page {
-    grid-template-columns: 1fr;
     align-items: center;
     background-image: linear-gradient(to right,#227BBF,#4CB0D5);
     max-width: 100vw;
 }
 
-.wrap__text-btn-ebook {
-    color: whitesmoke;
-    font-size: 1.2em;
-    width: 80vw;
-    margin: 0 auto;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
-}
-
-.img-ebook img {
-    width: 200px;
-}
-
-.show-hide {
-    visibility: visible;
-}
 
 /*=============== FORM ===============*/
 
