@@ -43,62 +43,50 @@
 </head>
 
 <body>
-    <div class="container-fluid">
-        <header>
-            <div class="row">
-                <img src="./img/Beta Growth-03.png" alt="Logo da Beta Growth">
-            </div>
-        </header>
-        <div class="jumbotron jumbotron-fluid">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="gif col-sm">
-                        <h1 class="text-lg-center"> Qual app você seria, lindinhx? </h1>
-                        <img class="img" src="img/nice.gif">
-                    </div>
-                    <div class="col-sm">
-                        <div class="form-wrap grid" id="form" >
-                            <form class="form grid" method="POST"
-                                action="https://smtl.gama.academy/leads/bfeee315-b7e1-11ea-8228-89cff86db9a0">
-                                <div class="form-group">
-                                    <p>
-                                        <h1>Preencha os dados abaixo e descubra agora!</h1>
-                                    </p>
-                
-                                    <label class="label" for="inputNome">Nome </label>
-                                    <input class="input" placeholder="Nome Completo" name="name" type="text" pattern="^\D{2,}\s[\D\s]{2,}$"
-                                        title="Digite seu nome completo" required />
-                                </div>
-                                <div class="form-group">
-                                    <label class="label" for="inputEmail">Email</label>
-                                    <input class="input" placeholder="email@email.com" name="email" type="email" title="Digite um email válido"
-                                        required />
-                                </div>
-                                <input name="redirectTo" type="hidden"
-                                    value="https://quiz.betagrowth.com.br/" />
-                                <!-- <input name="debugMode" type="hidden" value="true" /> -->
-                                <button type="submit" class="btn btn-primary btn-lg btn-form">Inicie o Quiz</button>
-                            </form>
-                        </div>
-                    </div>
+    <header>
+        <img class="logo" src="./img/beta-growth-peq.png" alt="Logo da Beta Growth">
+    </header>
+
+    <div class="content-page grid">
+        <div class="text-gif">
+            <h1>Qual app você seria, lindinhx?</h1>
+            <img class="img" src="img/nice.gif">
+        </div>
+
+        <div class="form-wrap" id="form">
+            <form class="form grid" method="POST"
+                action="https://smtl.gama.academy/leads/bfeee315-b7e1-11ea-8228-89cff86db9a0">
+                <div class="form-group">
+                    <h1 class="form-h1" >Preencha os dados abaixo e descubra agora!</h1>                   </p>
+
+                    <label class="label" for="inputNome">Nome </label>
+                    <input class="input" placeholder=" Nome Completo" name="name" type="text"
+                        pattern="^\D{2,}\s[\D\s]{2,}$" title="Digite seu nome completo" required />
                 </div>
-            </div>
+                <div class="form-group">
+                    <label class="label" for="inputEmail">Email</label>
+                    <input class="input" placeholder=" email@email.com" name="email" type="email"
+                        title="Digite um email válido" required />
+                </div>
+                <input name="redirectTo" type="hidden" value="https://quiz.betagrowth.com.br/" />
+                <!-- <input name="debugMode" type="hidden" value="true" /> -->
+                <button type="submit" class="btn btn-primary btn-lg">Inicie o Quiz</button>
+            </form>
         </div>
     </div>
-    </div>
-     <!---------- rodapé da página ---------->
+
     <div class="container">
-     <footer class="footer flex">
-        <div class="logo">
-            <img src="./img/Beta Growth-03.png" alt="Logo da Beta Growth">
-        </div>
-        <div class="social-media">
-            <a href="https://www.facebook.com/betagrowth "><img src="./img/facebook-brands.svg"
-                    alt="Logo do Facebook que é um quadrado preto com um F vazado"></a>
-            <a href="https://www.instagram.com/betagrowth"> <img src="./img/instagram-brands.svg"
-                    alt="Logo do Instagram que é um quadrado preto com um circulo no meio, imitando uma camera"></a>
-        </div>
-    </footer>
+        <footer class="footer">
+            <div class="logo">
+                <img src="./img/beta-growth-peq.png" alt="Logo da Beta Growth">
+            </div>
+            <div class="social-media">
+                <a href="https://www.facebook.com/betagrowth "><img src="./img/facebook-brands.svg"
+                        alt="Logo do Facebook que é um quadrado preto com um F vazado"></a>
+                <a href="https://www.instagram.com/betagrowth"> <img src="./img/instagram-brands.svg"
+                        alt="Logo do Instagram que é um quadrado preto com um circulo no meio, imitando uma camera"></a>
+            </div>
+        </footer>
     </div>
 </body>
 
