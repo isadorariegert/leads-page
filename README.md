@@ -21,6 +21,11 @@
 | 2º versão 	| https://github.com/isadorariegert/landingpage-bootstrap            	|  
 | 3º versão 	| https://github.com/catharinamoral/show-me-the-leads                	|  
 
+### Highlights
+- Tentamos ao máximo utilizar uma boa semântica no código, tanto para SEO quanto para acessibilidade.
+- Para a utilização de leitores de telas nós deixamos o código na ordem que ele tem que ser lido
+- Utilizamos label nos inputs para deixar claro aos usuários com deficiência o que deve ser preenchido em cada campo
+
 Para terminar nosso README como uma mensagem motivacional, como diria o grande Giovanni Del Negro
 >Troque o D pelo R e terá Resistir
 
